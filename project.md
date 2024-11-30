@@ -8,7 +8,6 @@ last_modified_at: 2024-05-24
 ---
 
 
-
 <div style="text-align: justify;">
   <p><strong><font color='red'>2023.12-present:</font> Automated welding of complex  joints in rebar cages for prefabricated concrete shear walls</strong><br>
   Using Yolov9 for target identification and segmentation of complex rebar cage joints, processing point cloud data, predicting the actual 6DOF welding pose based on scene point cloud data. In the future, we will also adopt an end-to-end method to address this problem. Moreover, we have established an automated welding workstation for further research.
@@ -66,8 +65,6 @@ last_modified_at: 2024-05-24
 
 
 
-
-
 <div style="text-align: justify;">
   <p><strong>Structure /Bridge Design</strong><br>  
   1. The First Prize of the 3rd Bridge Design Competition in Anhui Province: Completed the conceptual design of a bridge, followed by 3D rendering using Lumion.</p>  
@@ -77,14 +74,4 @@ last_modified_at: 2024-05-24
 
 <p align="center">
   <img src="/project\桥梁设计大赛.png">
-</p>
-
-
-<div style="text-align: justify;">
-  <p>2. The Special Prize of the 3rd National Undergraduate Structural Design Information Technology Competition 
-  <strong><a href="https://www.youtube.com/watch?v=Cu3-2oeKpLU&ab_channel=Figure">[Demo: Click me]</a></strong></p>
-</div>
-
-<p align="center">
-  <img src="/project\第三届全国大学生结构信息大赛.png">
 </p>
