@@ -20,9 +20,9 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Shaopeng's page"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Xu Shaopeng"
+name                     : "Shaopeng Xu"
 description              : "A person who pay his attention to automation in construction"
-url                      : # "https://huiguangwang.top"
+url                      : # "https://xushaopeng.top"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -113,21 +113,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xu Shaopeng"
-  avatar           : "/web_resources/huiguang.jpg"
+  name             : "Shaopeng Xu"
+  avatar           : "/web_resources/shaopeng.jpg"
   bio              : "A person who pays his attention to automation in construction."
   location         : "China"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:whg0917@hnu.edu.cn"
+      url: "mailto:xsp@hnu.edu.cn"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
-    #   url: "https://huiguangwang.top/"
+    #   url: "https://xushaopeng.top/"
     - label: "My CV"
       icon: "fa fa-address-card"
-      url: "https://huiguangwang.top/file/CV_Huiguang Wang_Hunan University_Construction Robotics.pdf"
+      url: "https://xushaopeng.top/file/CV_ShaopengXu.pdf"
     - label: "Google scholar"
       icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=kK19w24AAAAJ&hl=zh-CN"
@@ -136,7 +136,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/huiguangwang"
+      url: "https://github.com/xushaopeng"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
