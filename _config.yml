@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" #"default", "air", "aqua", "contrast", "dar
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Huiguang's website"
+title                    : "Shaopeng's page"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Wang Huiguang"
+name                     : "Xu Shaopeng"
 description              : "A person who pay his attention to automation in construction"
 url                      : # "https://huiguangwang.top"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wang Huiguang"
+  name             : "Xu Shaopeng"
   avatar           : "/web_resources/huiguang.jpg"
   bio              : "A person who pays his attention to automation in construction."
   location         : "China"
