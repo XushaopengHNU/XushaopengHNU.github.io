@@ -14,7 +14,6 @@ last_modified_at: 2024-09-07
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Uniaxial stress identification of steel components based on one dimensional-CNN and ultrasonic method</b>
     </span>
-    <p>
     <p>Lu Deng, <strong>Shaopeng Xu</strong>,  Wei Wang, Chao Xiang
       <br/>        
       <a href="https://youtu.be/-3JwZIYJyXY?si=GirI83uAahH1MXck"><b>[Demo]</b></a>
