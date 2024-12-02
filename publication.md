@@ -16,7 +16,7 @@ last_modified_at: 2024-12-02
     </span>
     <p>Lu Deng, <strong>Shaopeng Xu</strong>, Wei Wang, Chao Xiang
       <br/>        
-      <!-- <a href="https://huiguangwang.top/file/Code_FPM.rar"><b>[Code]</b></a> -->
+      <a href="https://huiguangwang.top/file/Code_FPM.rar"><b>[Code]</b></a>
       <br/>
   </div>
 </div>
@@ -30,10 +30,9 @@ last_modified_at: 2024-12-02
     </span>
     <p>Dan Li, <strong>Shaopeng Xu</strong>, Yang Wang, Weixin Ren
     <br>
-    <!-- <b>[PDF]</b> 
+    <b>[PDF]</b> 
     <b>[Demo]</b>  -->
-    <!-- <a href="/publication\papers\2019_Acoustic Emission Feature Extraction and Classification for Rail Crack Monitoring.pdf"><b>[PDF]</b></a> -->
-    </p>
+    <a href="/publication\papers\2019_Acoustic Emission Feature Extraction and Classification for Rail Crack Monitoring.pdf"><b>[PDF]</b></a>
   </div>
 </div>
 
@@ -46,9 +45,9 @@ last_modified_at: 2024-12-02
     </span>
     <p>Yingkai Liu, Ran Cao,<strong>Shaopeng Xu</strong>, Lu Deng
     <br>
-    <!-- <b>[PDF]</b> 
-    <b>[Demo]</b>  -->
-    <!-- <a href="/publication\papers\A deep learning-based method for structural modal analysis using computer vision.pdf"><b>[PDF]</b></a> -->
+    <b>[PDF]</b> 
+    <b>[Demo]</b> 
+    <a href="/publication\papers\A deep learning-based method for structural modal analysis using computer vision.pdf"><b>[PDF]</b></a>
     </p>
   </div>
 </div>
@@ -62,7 +61,7 @@ last_modified_at: 2024-12-02
     </span>
     <p> Chao Xiang, Vincent J.L.Gan, Lu Deng, Jingjing Guo, <strong>Shaopeng Xu</strong>
     <br>
-    <!-- <a href="/publication\papers\Unified weakly and semi-supervised crack segmentation framework using limited coarse labels-香超.pdf"><b>[PDF]</b></a> -->
+    <a href="/publication\papers\Unified weakly and semi-supervised crack segmentation framework using limited coarse labels-香超.pdf"><b>[PDF]</b></a>
     </p>
   </div>
 </div>
