@@ -4,7 +4,7 @@ permalink: /publication/index.html
 title: Publication
 classes: wide
 author_profile: true
-last_modified_at: 2024-09-07
+last_modified_at: 2024-12-02
 ---
 
 
@@ -14,13 +14,11 @@ last_modified_at: 2024-09-07
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Uniaxial stress identification of steel components based on one dimensional-CNN and ultrasonic method</b>
     </span>
-    <p>Lu Deng, <strong>Shaopeng Xu</strong>,  Wei Wang, Chao Xiang
+    <p>Lu Deng, <strong>Shaopeng Xu</strong>, Wei Wang, Chao Xiang
       <br/>        
-      <a href="https://youtu.be/-3JwZIYJyXY?si=GirI83uAahH1MXck"><b>[Demo]</b></a>
       <!-- <a href="https://huiguangwang.top/file/Code_FPM.rar"><b>[Code]</b></a> -->
       <br/>
-      <b><font color='red'>All codes will be opened source after this paper being publicated.</font></b>
-    </p>
+      
   </div>
 </div>
 
@@ -63,7 +61,7 @@ last_modified_at: 2024-09-07
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>Unified weakly and semi-supervised crack segmentation framework using limited coarse labels</b>
     </span>
-    <p> Chao Xiang, Vincent J.L.Gan, Lu Deng, Jingjing Guo, <strong>Huiguang Wang</strong>
+    <p> Chao Xiang, Vincent J.L.Gan, Lu Deng, Jingjing Guo, <strong>Shaopeng Xu</strong>
     <br>
     <!-- <a href="/publication\papers\Unified weakly and semi-supervised crack segmentation framework using limited coarse labels-香超.pdf"><b>[PDF]</b></a> -->
     </p>
